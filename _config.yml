@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Mauro Lazarovich"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Postdoctoral Fellow Program in Latin American Studies (PLAS), Princeton University
+  location         : "Princeton, NJ"
+  email            : "maurolazarovich@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
