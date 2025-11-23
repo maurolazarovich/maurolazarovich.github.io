@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Mauro Lazarovich"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoctoral Fellow Program in Latin American Studies (PLAS), Princeton University"
   location         : "Princeton, NJ"
   email            : "maurolazarovich@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:maurolazarovich@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -335,7 +335,6 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
   # _teaching
   - scope:
       path: ""
@@ -346,5 +345,4 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
 
