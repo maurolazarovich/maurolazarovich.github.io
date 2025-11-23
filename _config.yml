@@ -322,9 +322,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
   # _publications
   - scope:
       path: ""
@@ -332,17 +329,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
-      layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
+  # _cv
+  - scope:
+      path: ""
+      type: cv
+    values:
+      author_profile: true
 
