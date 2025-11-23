@@ -1,6 +1,6 @@
 ---
-layout: single
 permalink: /
+layout: single
 title: "Welcome" 
 ---
 
