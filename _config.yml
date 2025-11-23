@@ -315,30 +315,30 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      author_profile: true
-  # _cv
-  - scope:
-      path: ""
-      type: cv
-    values:
-      author_profile: true
+  # # _publications
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     author_profile: true
+  # # _cv
+  # - scope:
+  #     path: ""
+  #     type: cv
+  #   values:
+  #     author_profile: true
 
