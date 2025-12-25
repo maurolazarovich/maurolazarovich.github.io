@@ -119,7 +119,7 @@ author:
   location         : "Princeton, NJ"
   # email            : "maurolazarovich@gmail.com"
   links:
-    - label: "Email"
+    - label: "maurolazarovich [at] gmail [dot] com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:maurolazarovich@gmail.com"
     - label: "Website"
